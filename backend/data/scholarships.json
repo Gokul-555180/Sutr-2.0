@@ -1,0 +1,3996 @@
+[
+  {
+    "id": "kerala-egrantz-post-matric-services",
+    "name": "e-Grantz 3.0 Post-matric scholarship services",
+    "provider": "Government of Kerala — e-Grantz 3.0",
+    "description": "Official Kerala portal for educational-assistance schemes for post-matric students. Individual scheme eligibility, awards and document requirements are determined in the portal and by the relevant department.",
+    "officialUrl": "https://www.egrantz.kerala.gov.in/",
+    "applicationUrl": "https://www.egrantz.kerala.gov.in/Registration/onetime_reg",
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [],
+    "courseRequirement": "unknown",
+    "eligibleCourseLevels": [
+      "Higher Secondary",
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "unknown",
+    "minimumMarks": null,
+    "marksRequirement": "unknown",
+    "maximumAnnualFamilyIncome": null,
+    "incomeRequirement": "unknown",
+    "eligibleCategories": [
+      "SC",
+      "ST",
+      "OBC"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [],
+    "domicileRequirement": "unknown",
+    "institutionRequirements": [],
+    "institutionRequirement": "unknown",
+    "otherEligibilityRules": [
+      "The official portal determines schemes visible to an eligible student after registration."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Scheme-specific documents",
+        "status": "unknown"
+      }
+    ],
+    "applicationInstructions": [
+      "Complete One Time Registration.",
+      "Create the student profile and qualification in Student Login.",
+      "Use Apply for Scholarship to view eligible schemes."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": null,
+    "recordType": "verified",
+    "verificationStatus": "official_details_incomplete",
+    "sourceReferences": [
+      {
+        "title": "e-Grantz 3.0 official portal",
+        "url": "https://www.egrantz.kerala.gov.in/",
+        "accessedAt": "2026-10-13"
+      },
+      {
+        "title": "e-Grantz 3.0 official FAQ",
+        "url": "https://www.egrantz.kerala.gov.in/Registration/get_allfaqs/",
+        "accessedAt": "2026-10-13"
+      }
+    ],
+    "lastVerifiedAt": "2026-10-13"
+  },
+  {
+    "id": "pm-yasasvi-top-class-school-2023-reference",
+    "name": "PM YASASVI Top Class School Scheme — 2023 reference",
+    "provider": "Department of Social Justice and Empowerment, Government of India",
+    "description": "An archived 2023 official notice for PM YASASVI Top Class Schools. This record is historical reference only; it does not indicate a current application window.",
+    "officialUrl": "https://egrantz.kerala.gov.in/egrantz_uploads/5e7cf6ec4a5ecba0e6c1326dcf2e5455.pdf",
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [],
+    "courseRequirement": "not_required",
+    "eligibleCourseLevels": [
+      "School"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      9,
+      11
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": null,
+    "marksRequirement": "not_required",
+    "maximumAnnualFamilyIncome": 250000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [
+      "OBC",
+      "EBC",
+      "DNT"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [
+      "Top Class School"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "The archived notice refers to merit through the YASASVI Entrance Test."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Income certificate",
+        "status": "documented"
+      },
+      {
+        "name": "Caste certificate",
+        "status": "documented"
+      },
+      {
+        "name": "Functional mobile number",
+        "status": "documented"
+      }
+    ],
+    "applicationInstructions": [
+      "Treat this as an archive. Check current official notices before relying on any eligibility or award detail."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Archived 2023 notice: up to ₹75,000 p.a. for Class 9/10; up to ₹1,25,000 p.a. for Class 11/12.",
+    "recordType": "verified",
+    "verificationStatus": "officially_sourced",
+    "sourceReferences": [
+      {
+        "title": "PM YASASVI 2023 notice hosted by e-Grantz",
+        "url": "https://egrantz.kerala.gov.in/egrantz_uploads/5e7cf6ec4a5ecba0e6c1326dcf2e5455.pdf",
+        "accessedAt": "2026-10-13"
+      }
+    ],
+    "lastVerifiedAt": "2026-10-13"
+  },
+  {
+    "id": "kerala-egrantz-online-application-guide",
+    "name": "e-Grantz 3.0 online application guide",
+    "provider": "Government of Kerala — e-Grantz 3.0",
+    "description": "Verified official application guidance for Kerala's e-Grantz portal. It is a service guide rather than a separate funding programme; individual scheme conditions remain provider-controlled.",
+    "officialUrl": "https://www.egrantz.kerala.gov.in/Registration/get_allfaqs/",
+    "applicationUrl": "https://www.egrantz.kerala.gov.in/Registration/onetime_reg",
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [],
+    "courseRequirement": "unknown",
+    "eligibleCourseLevels": [
+      "Higher Secondary",
+      "Undergraduate",
+      "Postgraduate",
+      "Doctoral"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "unknown",
+    "minimumMarks": null,
+    "marksRequirement": "unknown",
+    "maximumAnnualFamilyIncome": null,
+    "incomeRequirement": "unknown",
+    "eligibleCategories": [],
+    "categoryRequirement": "unknown",
+    "domicileRequirements": [],
+    "domicileRequirement": "unknown",
+    "institutionRequirements": [],
+    "institutionRequirement": "unknown",
+    "otherEligibilityRules": [
+      "The FAQ says post-matric students are directed to One Time Registration and the student login flow."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Scheme-specific documents",
+        "status": "unknown"
+      }
+    ],
+    "applicationInstructions": [
+      "Use One Time Registration.",
+      "Log in, complete profile details, add qualification, then use Apply for Scholarship."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": null,
+    "recordType": "verified",
+    "verificationStatus": "official_details_incomplete",
+    "sourceReferences": [
+      {
+        "title": "e-Grantz 3.0 official FAQ",
+        "url": "https://www.egrantz.kerala.gov.in/Registration/get_allfaqs/",
+        "accessedAt": "2026-10-13"
+      }
+    ],
+    "lastVerifiedAt": "2026-10-13"
+  },
+  {
+    "id": "demo-kerala-stem-01",
+    "name": "Sutr Kerala STEM Demo Award — Foundation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 70,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 300000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹15,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-02",
+    "name": "Sutr Kerala STEM Demo Award — Academic Pathway",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 72,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 275000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹20,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-03",
+    "name": "Sutr Kerala STEM Demo Award — Future Skills",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Tamil Nadu"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 74,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 325000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Tamil Nadu"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹25,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-04",
+    "name": "Sutr Kerala STEM Demo Award — Community Learning",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Karnataka"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 67,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 250000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Karnataka"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹30,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-05",
+    "name": "Sutr Kerala STEM Demo Award — Access Initiative",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Maharashtra"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 75,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 350000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Maharashtra"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹35,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-06",
+    "name": "Sutr Kerala STEM Demo Award — Continuing Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 71,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 300000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹40,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-07",
+    "name": "Sutr Kerala STEM Demo Award — Women in Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 69,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 375000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹45,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-08",
+    "name": "Sutr Kerala STEM Demo Award — Regional Progress",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Goa"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 73,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 225000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Goa"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹50,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-09",
+    "name": "Sutr Kerala STEM Demo Award — Learning Bridge",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Telangana"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 70,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 400000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Telangana"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹55,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-10",
+    "name": "Sutr Kerala STEM Demo Award — Achievement Track",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 76,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 300000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹60,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-11",
+    "name": "Sutr Kerala STEM Demo Award — Campus Support",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 68,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 325000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹65,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-kerala-stem-12",
+    "name": "Sutr Kerala STEM Demo Award — Career Preparation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 72,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 275000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹70,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-01",
+    "name": "Sutr Undergraduate Merit Demo Grant — Foundation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 78,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 450000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹15,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-02",
+    "name": "Sutr Undergraduate Merit Demo Grant — Academic Pathway",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 80,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 425000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹20,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-03",
+    "name": "Sutr Undergraduate Merit Demo Grant — Future Skills",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Tamil Nadu"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 82,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 475000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Tamil Nadu"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹25,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-04",
+    "name": "Sutr Undergraduate Merit Demo Grant — Community Learning",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Karnataka"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 75,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 400000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Karnataka"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹30,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-05",
+    "name": "Sutr Undergraduate Merit Demo Grant — Access Initiative",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Maharashtra"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 83,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 500000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Maharashtra"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹35,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-06",
+    "name": "Sutr Undergraduate Merit Demo Grant — Continuing Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 79,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 450000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹40,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-07",
+    "name": "Sutr Undergraduate Merit Demo Grant — Women in Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 77,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 525000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹45,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-08",
+    "name": "Sutr Undergraduate Merit Demo Grant — Regional Progress",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Goa"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 81,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 375000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Goa"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹50,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-09",
+    "name": "Sutr Undergraduate Merit Demo Grant — Learning Bridge",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Telangana"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 78,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 550000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Telangana"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹55,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-10",
+    "name": "Sutr Undergraduate Merit Demo Grant — Achievement Track",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 84,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 450000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹60,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-11",
+    "name": "Sutr Undergraduate Merit Demo Grant — Campus Support",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 76,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 475000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹65,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-undergraduate-merit-12",
+    "name": "Sutr Undergraduate Merit Demo Grant — Career Preparation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Arts"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 80,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 425000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹70,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-01",
+    "name": "Sutr Rural Learner Demo Scholarship — Foundation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 65,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 250000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹15,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-02",
+    "name": "Sutr Rural Learner Demo Scholarship — Academic Pathway",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 67,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 225000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹20,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-03",
+    "name": "Sutr Rural Learner Demo Scholarship — Future Skills",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Tamil Nadu"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 69,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 275000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Tamil Nadu"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹25,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-04",
+    "name": "Sutr Rural Learner Demo Scholarship — Community Learning",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Karnataka"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 62,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 200000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Karnataka"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹30,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-05",
+    "name": "Sutr Rural Learner Demo Scholarship — Access Initiative",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Maharashtra"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 70,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 300000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Maharashtra"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹35,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-06",
+    "name": "Sutr Rural Learner Demo Scholarship — Continuing Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 66,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 250000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹40,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-07",
+    "name": "Sutr Rural Learner Demo Scholarship — Women in Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 64,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 325000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹45,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-08",
+    "name": "Sutr Rural Learner Demo Scholarship — Regional Progress",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Goa"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 68,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 175000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Goa"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹50,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-09",
+    "name": "Sutr Rural Learner Demo Scholarship — Learning Bridge",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Telangana"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 65,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 350000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Telangana"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹55,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-10",
+    "name": "Sutr Rural Learner Demo Scholarship — Achievement Track",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 71,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 250000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹60,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-11",
+    "name": "Sutr Rural Learner Demo Scholarship — Campus Support",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 63,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 275000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹65,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-rural-learner-12",
+    "name": "Sutr Rural Learner Demo Scholarship — Career Preparation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Science"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 67,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 225000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [
+      "Government"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹70,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-01",
+    "name": "Sutr First-Generation Student Demo Fund — Foundation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Tamil Nadu"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 60,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 350000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [
+      "First Generation"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [
+      "Tamil Nadu"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Demo category declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹15,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-02",
+    "name": "Sutr First-Generation Student Demo Fund — Academic Pathway",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 62,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 325000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹20,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-03",
+    "name": "Sutr First-Generation Student Demo Fund — Future Skills",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Tamil Nadu"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 64,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 375000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [
+      "First Generation"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [
+      "Tamil Nadu"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Demo category declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹25,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-04",
+    "name": "Sutr First-Generation Student Demo Fund — Community Learning",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Karnataka"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 57,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 300000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Karnataka"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹30,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-05",
+    "name": "Sutr First-Generation Student Demo Fund — Access Initiative",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Maharashtra"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 65,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 400000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [
+      "First Generation"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [
+      "Maharashtra"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Demo category declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹35,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-06",
+    "name": "Sutr First-Generation Student Demo Fund — Continuing Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 61,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 350000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹40,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-07",
+    "name": "Sutr First-Generation Student Demo Fund — Women in Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 59,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 425000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [
+      "First Generation"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Demo category declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹45,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-08",
+    "name": "Sutr First-Generation Student Demo Fund — Regional Progress",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Goa"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 63,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 275000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Goa"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹50,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-09",
+    "name": "Sutr First-Generation Student Demo Fund — Learning Bridge",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Telangana"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 60,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 450000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [
+      "First Generation"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [
+      "Telangana"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Demo category declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹55,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-10",
+    "name": "Sutr First-Generation Student Demo Fund — Achievement Track",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Tamil Nadu"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 66,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 350000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Tamil Nadu"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹60,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-11",
+    "name": "Sutr First-Generation Student Demo Fund — Campus Support",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 58,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 375000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [
+      "First Generation"
+    ],
+    "categoryRequirement": "restricted",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Demo category declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹65,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-first-generation-12",
+    "name": "Sutr First-Generation Student Demo Fund — Career Preparation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Commerce"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Undergraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 62,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 325000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹70,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-01",
+    "name": "Sutr Engineering Student Demo Award — Foundation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Karnataka"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 72,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 500000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Karnataka"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹15,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-02",
+    "name": "Sutr Engineering Student Demo Award — Academic Pathway",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 74,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 475000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹20,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-03",
+    "name": "Sutr Engineering Student Demo Award — Future Skills",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Tamil Nadu"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 76,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 525000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Tamil Nadu"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹25,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-04",
+    "name": "Sutr Engineering Student Demo Award — Community Learning",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Karnataka"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 69,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 450000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Karnataka"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹30,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-05",
+    "name": "Sutr Engineering Student Demo Award — Access Initiative",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Maharashtra"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 77,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 550000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Maharashtra"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹35,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-06",
+    "name": "Sutr Engineering Student Demo Award — Continuing Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 73,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 500000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹40,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-07",
+    "name": "Sutr Engineering Student Demo Award — Women in Study",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [],
+    "academicYearRequirement": "not_required",
+    "minimumMarks": 71,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 575000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹45,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-08",
+    "name": "Sutr Engineering Student Demo Award — Regional Progress",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Goa"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 75,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 425000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Goa"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹50,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-09",
+    "name": "Sutr Engineering Student Demo Award — Learning Bridge",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Telangana"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 72,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 600000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Telangana"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹55,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-10",
+    "name": "Sutr Engineering Student Demo Award — Achievement Track",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Karnataka"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      3
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 78,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 500000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Karnataka"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [],
+    "institutionRequirement": "not_required",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹60,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-11",
+    "name": "Sutr Engineering Student Demo Award — Campus Support",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [
+      "Kerala"
+    ],
+    "stateRequirement": "restricted",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      1
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 70,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 525000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [
+      "Kerala"
+    ],
+    "domicileRequirement": "restricted",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹65,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  },
+  {
+    "id": "demo-engineering-student-12",
+    "name": "Sutr Engineering Student Demo Award — Career Preparation",
+    "provider": "Sutr demonstration dataset",
+    "description": "Fictional demonstration opportunity for exploring the Sutr matching, checklist, and roadmap experience. It is not a real funding programme and accepts no applications.",
+    "officialUrl": null,
+    "applicationUrl": null,
+    "eligibleStates": [],
+    "stateRequirement": "not_required",
+    "eligibleCourses": [
+      "Engineering"
+    ],
+    "courseRequirement": "restricted",
+    "eligibleCourseLevels": [
+      "Postgraduate"
+    ],
+    "courseLevelRequirement": "restricted",
+    "eligibleYears": [
+      2
+    ],
+    "academicYearRequirement": "restricted",
+    "minimumMarks": 74,
+    "marksRequirement": "restricted",
+    "maximumAnnualFamilyIncome": 475000,
+    "incomeRequirement": "restricted",
+    "eligibleCategories": [],
+    "categoryRequirement": "not_required",
+    "domicileRequirements": [],
+    "domicileRequirement": "not_required",
+    "institutionRequirements": [
+      "Private"
+    ],
+    "institutionRequirement": "restricted",
+    "otherEligibilityRules": [
+      "Fictional criteria created solely for deterministic product demonstrations."
+    ],
+    "requiredDocuments": [
+      {
+        "name": "Demo academic record",
+        "status": "documented"
+      },
+      {
+        "name": "Demo income declaration",
+        "status": "documented"
+      },
+      {
+        "name": "Any provider-specific requirement",
+        "status": "potential"
+      }
+    ],
+    "applicationInstructions": [
+      "This is a fictional demo. Do not attempt to apply or provide personal documents."
+    ],
+    "applicationStartDate": null,
+    "applicationDeadline": null,
+    "awardAmount": "Demo only: illustrative support band up to ₹70,000.",
+    "recordType": "demo",
+    "verificationStatus": "demo_fictional",
+    "sourceReferences": [],
+    "lastVerifiedAt": null
+  }
+]
