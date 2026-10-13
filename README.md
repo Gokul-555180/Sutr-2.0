@@ -253,9 +253,9 @@ The exact scripts and ports depend on the current project configuration. Refer t
 
 ## Live Demo
 
-**Live Application:** [Add Your Deployed URL](YOUR_LIVE_DEMO_URL)
+**Live Application:** [Live Application](https://gokul-555180.github.io/Sutr-2.0/)
 
-**GitHub Repository:** [View Source Code](YOUR_GITHUB_REPOSITORY_URL)
+**GitHub Repository:** [View Source Code](https://github.com/Gokul-555180/Sutr-2.0)
 
 Replace these placeholders before submitting the project. If the application has not been deployed yet, remove the live-demo link until it is available.
 
