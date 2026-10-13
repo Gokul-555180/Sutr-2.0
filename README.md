@@ -44,6 +44,10 @@ npm run dev:frontend
 
 `VITE_API_BASE_URL` can override the frontend's API root. It defaults to `http://localhost:3001/api`; no other environment variables are required.
 
+## GitHub Pages
+
+The repository includes a GitHub Actions workflow that deploys the Vite frontend to GitHub Pages when `main` changes. GitHub Pages cannot run the Express API. For a functional hosted deployment, host `backend/` on an HTTPS Node service and set the repository Actions variable `VITE_API_BASE_URL` to that service's `/api` URL before deployment. Without it, the published interface loads but cannot retrieve scholarship data.
+
 ## Checks
 
 ```bash
