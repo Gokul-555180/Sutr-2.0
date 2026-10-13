@@ -46,7 +46,9 @@ npm run dev:frontend
 
 ## GitHub Pages
 
-The repository includes a GitHub Actions workflow that deploys the Vite frontend to GitHub Pages when `main` changes. GitHub Pages cannot run the Express API. For a functional hosted deployment, host `backend/` on an HTTPS Node service and set the repository Actions variable `VITE_API_BASE_URL` to that service's `/api` URL before deployment. Without it, the published interface loads but cannot retrieve scholarship data.
+Live frontend: [https://gokul-555180.github.io/Sutr-2.0/](https://gokul-555180.github.io/Sutr-2.0/)
+
+The repository includes a GitHub Actions workflow that deploys the Vite frontend to GitHub Pages when `main` changes. GitHub Pages cannot run the Express API. For a functional hosted deployment, host `backend/` on an HTTPS Node service and set the repository Actions variable `VITE_API_BASE_URL` to that service’s `/api` URL before deployment. Without it, the published interface loads but cannot retrieve scholarship data.
 
 ## Checks
 
@@ -93,6 +95,18 @@ The backend is the source of truth for matches and eligibility. It never accepts
 The API has no server-side user account or progress storage. Profile values, saved IDs, document states, and roadmap task states are stored only in the current browser's `localStorage`. Invalid stored JSON is ignored safely. Clearing browser site data removes this local progress.
 
 Do not enter Aadhaar numbers, bank details, passwords, or documents into Sutr. Always read the current provider page and use official channels to apply.
+
+## Future scope
+
+Potential future work includes:
+
+- **Optional LLM-assisted guidance:** explain scholarship terminology, summarise provider instructions, support multilingual questions, and help students understand checklist steps.
+- **Source-grounded AI retrieval:** only answer from approved official sources, attach citations, and clearly say when a source does not provide an answer.
+- **Human-first safeguards:** keep eligibility decisions deterministic and explainable; an LLM must never determine official eligibility, invent requirements, submit an application, or handle sensitive identifiers.
+- **Live source maintenance:** reviewed data-refresh workflows, change alerts for provider pages, and a structured verification queue.
+- **Broader access:** additional Indian state coverage, accessibility-language improvements, and optional secure accounts for synchronising progress across devices.
+
+AI integration is not part of the current product. The existing app intentionally works without AI APIs, API keys, or external AI services.
 
 ## Known limitations
 
